@@ -159,3 +159,6 @@ DynamoDB에서 CSV 파일로 추출.
 </br>
     4. Lambda 트리거 설정
        1. 위에 만들어준 SNS 주제 선택 
+       
+## 출처
+https://github.com/namusik/TIL-SampleProject  
